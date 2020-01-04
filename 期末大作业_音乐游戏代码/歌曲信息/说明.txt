@@ -1,0 +1,3 @@
+将txt文件中内容替换到songData.h中对应行即可
+mid是歌曲，xlsx是谱面
+使用musicconvert.m的MATLAB批处理文件生成
